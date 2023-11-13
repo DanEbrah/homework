@@ -4,7 +4,6 @@ create key and save it
 create test string for encryption
 
 '''
-
 from Crypto.Cipher import AES
 import os
 from Crypto.Util.Padding import pad, unpad
