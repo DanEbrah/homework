@@ -1,11 +1,3 @@
-'''homework: 
-
-
-
-
-'''
-
-
 class Car: 
     def __init__(self, brand, milage_km):
         self.brand = brand
