@@ -7,7 +7,7 @@ def main():
 
     print("Book:")
     book_item1 = BookItem(name = "To Kill A Mocking Bird", 
-                          published_year = 2000, 
+                          published_year = 1960, 
                           author = author1) 
                           
     print(book_item1.__dict__)
