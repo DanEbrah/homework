@@ -18,7 +18,7 @@
 
 ![unknownBook](https://github.com/DanEbrah/homework/assets/50346743/129f5c6d-274a-482a-a69f-097acc31acf4)
 
-# Delete Book Item
+# Delete method
 **Delete Book2** 
 
 ![bookdeleted](https://github.com/DanEbrah/homework/assets/50346743/19af75cb-01e4-40ac-a6fa-4936ea97c1b7)
@@ -27,7 +27,7 @@
 
 ![cantdelete](https://github.com/DanEbrah/homework/assets/50346743/79faa6fc-da7b-48b3-a3fa-f6cadba23671)
 
-# Get List
+# Get List method
 **Getting both books before deleting book2**
 
 ![listbooks](https://github.com/DanEbrah/homework/assets/50346743/1348ffce-5407-4dd0-9fd9-d3021286c815)
