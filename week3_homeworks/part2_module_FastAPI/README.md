@@ -28,6 +28,6 @@
 ![cantdelete](https://github.com/DanEbrah/homework/assets/50346743/79faa6fc-da7b-48b3-a3fa-f6cadba23671)
 
 # Get List
-**Getting both books for deleting book2**
+**Getting both books before deleting book2**
 
 ![listbooks](https://github.com/DanEbrah/homework/assets/50346743/1348ffce-5407-4dd0-9fd9-d3021286c815)
