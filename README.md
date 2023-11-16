@@ -1,4 +1,7 @@
-**My homework/study repo** 
+# My homework/study repo
 
-# Week 2 
-([week2_homeworks](https://github.com/DanEbrah/homework/tree/cb50e3da8b58bd350b5d2cb6207b54670c53cf32/week2_homeworks))
+*Week 2** 
+([Week 2 Homework Folder](https://github.com/DanEbrah/homework/tree/week2_homeworks))
+
+**Week 3**
+
