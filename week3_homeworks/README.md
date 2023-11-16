@@ -1,2 +1,2 @@
 **Week 3 study/homeworks**
-Homework 1: week3_homeworks/module_exercise
+Homework 1: https://github.com/DanEbrah/homework/tree/main/week3_homeworks/module_exercise
