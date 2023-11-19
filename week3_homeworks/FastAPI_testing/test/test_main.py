@@ -44,7 +44,7 @@ def test_get_api(): #create/put another dict with different items, and get to co
     assert response_get.status_code == 200
     
     response_get = client.get("/items/appl8")
-    assert response_get.json() == another
+    assert response_get.json() == another #comparing the get with the dict in put within test_get_api
     # need to check the payload way or in another way
 
 
