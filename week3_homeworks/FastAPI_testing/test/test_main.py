@@ -40,11 +40,12 @@ def test_get_api(): #create/put another dict with different items, and get to co
     "origin": {
         "country": "Ethiopia",
         "production_date": "2023"}}
-
     client.put("/items/appl8", json = another)
-
+    assert response_get.status_code == 200
+    
     response_get = client.get("/items/appl8")
-    assert response_get.status_code == 200 and response_get.json() == another
+    assert response_get.json() == another
+    # need to check the payload way or in another way
 
 
 def test_delete_api(): # ora21 not found, 404 response.
