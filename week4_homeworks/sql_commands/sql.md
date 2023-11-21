@@ -13,11 +13,14 @@
 
 # 3: Update/Change the first 5 customers from store id 1 to store id 2
 
+
 **Showing below that they are set to store id 1 first**
 ![four_one](https://github.com/DanEbrah/homework/assets/50346743/8cb8326f-e6c7-47c3-9037-c91e30557ef3)
 
+
 **3.1: UPDATE statement** 
 ![four_two](https://github.com/DanEbrah/homework/assets/50346743/069680b7-8ff3-4485-a599-ad8683612de7)
+
 
 **3.2: Display change/output where store_id = 2 now** 
 ![four_three](https://github.com/DanEbrah/homework/assets/50346743/8d1ef5e8-ec07-4c53-9028-4ab538c017e7)
