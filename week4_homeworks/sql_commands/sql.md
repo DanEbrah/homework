@@ -19,11 +19,13 @@
 
 **3.2: UPDATE statement** 
 
-![four_two](https://github.com/DanEbrah/homework/assets/50346743/069680b7-8ff3-4485-a599-ad8683612de7)
+![threeone](https://github.com/DanEbrah/homework/assets/50346743/cb894062-a707-4423-9073-4e8a79338ec1)
+
 
 **3.3: Display change/output where store_id = 2 now** 
 
-![four_three](https://github.com/DanEbrah/homework/assets/50346743/8d1ef5e8-ec07-4c53-9028-4ab538c017e7)
+![last](https://github.com/DanEbrah/homework/assets/50346743/71ef47cc-af82-4eb7-a4d1-b36c01e61bd0)
+
 
 
 
